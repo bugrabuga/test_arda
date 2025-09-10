@@ -1,7 +1,6 @@
 import os
-import pandas as pd
 
-
+print("Merhaba Dünya!")
 print("Hello World!")
 
 
